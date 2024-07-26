@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436572774809",
+    "project_id": "silenceishearable-53e8b",
+    "storage_bucket": "silenceishearable-53e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436572774809:android:3c933dfc0a6c2204f2f308",
+        "android_client_info": {
+          "package_name": "com.example.silence_is_hearable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuVUaefR7TtJlvxppTJaAhZjDtZFVw-58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
